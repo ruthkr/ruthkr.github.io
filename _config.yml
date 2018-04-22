@@ -1,0 +1,37 @@
+# Theme
+# theme: 'cover-card'
+
+# Title and tag line
+title: 'Ruth Krisrianingsih'
+description: 'I am amazing.'
+
+# Images
+avatar: 'avatar.jpg'
+background: 'background.jpg'
+favicon: 'favicon.ico'
+
+# Online profiles
+facebook: ''
+twitter: ''
+linkedin: ''
+instagram: ''
+pinterest: ''
+youtube: ''
+github: ''
+#codepen: ''
+#steam: ''
+#soundcloud: ''
+#lastfm: ''
+#stack-overflow: ''
+#reddit: ''
+#medium:  ''
+#tumblr: ''
+weibo: ''
+vk: ''
+blog_url: ''
+email: ''
+messenger: ''
+
+# Advanced settings
+# plugins:
+  # - jekyll-remote-theme
