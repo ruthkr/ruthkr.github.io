@@ -86,7 +86,11 @@
     {% if site.keybase %}
     <li><a class="fa fa-2x fa-key" href="https://keybase.io/{{ site.keybase }}"><span class="description">Keybase</span></a></li>
     {% endif %}
-
+    
+    {% if site.cv %}
+    <li><a class="fa fa-2x fa-address-card" href="{{ site.cv }}"><span class="description">Curriculum Vitae</span></a></li>
+    {% endif %}
+    
     {% if site.email %}
     <li><a class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}"><span class="description">Email</span></a></li>
     {% endif %}
